@@ -77,3 +77,10 @@ body {
     margin-top: 40px;
     letter-spacing: 4px;
 }
+
+.login-box a:hover {
+    background: #ff0043;
+    color: #fff;
+    border-radius: 0 0 5px #ff0043,
+                   0 0 25px #ff0043, 
+}
