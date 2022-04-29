@@ -70,4 +70,10 @@ body {
     padding: 10px 20px;
     color: #ff0043;
     font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px;
 }
