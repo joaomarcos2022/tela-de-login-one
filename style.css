@@ -82,5 +82,12 @@ body {
     background: #ff0043;
     color: #fff;
     border-radius: 0 0 5px #ff0043,
-                   0 0 25px #ff0043, 
+                   0 0 25px #ff0043,
+                   0 0 50px #ff0043,
+                   0 0 100px #ff0043; 
+}
+
+.login-box a span {
+    position: absolute;
+    display: block;
 }
